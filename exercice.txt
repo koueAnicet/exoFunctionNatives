@@ -1,0 +1,7 @@
+count
+reverse/sort
+len
+replace
+split
+min/max
+pour demain
