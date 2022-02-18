@@ -19,12 +19,12 @@
 
 # autre(3,10)
 
-def autreFor(n,m):
+"""def autreFor(n,m):
     n-=1
     m-=1
     boite=[]
     for i in  m:
         boite.append(i)
     print(boite)
-
+"""
 autreFor(3,10)
