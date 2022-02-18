@@ -1,12 +1,12 @@
-# def getRange():
-#     i =int(input('nombre1 min:\t'))
-#     j=int(input('nombre2 max:\t'))
-#     c=[]
-#     while i < j:
-#         c.append(i)
-#         i+=1
-#     print(c)
-# getRange()
+def getRange():
+    i =int(input('nombre1 min:\t'))
+    j=int(input('nombre2 max:\t'))
+    c=[]
+    while i < j:
+        c.append(i)
+        i+=1
+    print(c)
+getRange()
 #---------------  
 # def autre(n,m):
 #     n=n-1
@@ -26,5 +26,5 @@
     for i in  m:
         boite.append(i)
     print(boite)
-"""
-autreFor(3,10)
+
+autreFor(3,10)"""
